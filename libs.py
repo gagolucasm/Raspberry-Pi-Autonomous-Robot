@@ -16,12 +16,10 @@ def tweetPhoto(tweet,image):
     photo_name = now+ '.jpg'
     cv2.imwrite(photo_name,image)
 
-
-
-    consumer_key='qyqyo7s64UmIiOfxAjPHIhErd'
-    consumer_secret='gKhvExBAPfAzPm5y4JyqNo1K2m9ufCIxvUgtF1I3o9raC4ZVob'
-    access_token='3213026471-HSZNU9K89m5yDiCLhzzNB7cYfAeHW2eK2PrOxRo'
-    access_token_secret='nl1e8SqawoLPOjCcr6LgyXmBsQ80vxNNEd2F83SdX3wS7'
+    consumer_key='your consumer key'
+    consumer_secret='your consumer secret'
+    access_token='your access token'
+    access_token_secret='your access token secret'
 
 
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
