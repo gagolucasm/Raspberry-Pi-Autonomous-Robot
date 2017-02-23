@@ -2,7 +2,7 @@
 
 Autonomous Robot with simple behaviour. Analyzes the environment, finds the correct shape, moves near to it and uploads a picture of it to twitter. Works fluently with a Raspberry Pi 2, used an H-Bridge (L298N) to change polarity.
 
-## Instalation
+## Installation
 
 Clone the repository in your computer:
 
