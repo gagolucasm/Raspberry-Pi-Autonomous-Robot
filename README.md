@@ -33,3 +33,8 @@ Run:
 If you need help with the configuration parameters, run:
 
 `python colourRec.py --help`
+
+
+## Licence
+
+This proyect is Copyright © 2014-2017 Lucas Gago. It is free software, and may be redistributed under the terms specified in the [MIT Licence](https://opensource.org/licenses/MIT).
